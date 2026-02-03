@@ -1,2 +1,2 @@
 # Rag-Chatbot
-Customer-Support-RAG is a contextual, Retrieval-Augmented Generation (RAG) powered chatbot designed for intelligent customer support. Unlike basic FAQ bots that rely on fixed responses, this system understands user queries, retrieves relevant information from a knowledge base, and generates accurate, context-aware answers
+An end-to-end full-stack RAG chat application that combines LLMs, vector search, and a scalable backend to deliver context-aware, knowledge-grounded responses.
